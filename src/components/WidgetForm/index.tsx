@@ -69,7 +69,7 @@ export function WidgetForm() {
       
 
       <footer className="text-xs text-neutral-400">
-      Feito com ♥ pela Nexus <a className="underline underline-offset-2" href="https://nexus.dev.br/">Nexus</a>
+      Feito com ♥ pela <a className="underline underline-offset-2" href="https://nexus.dev.br/">Nexus</a>
       </footer>
     </div>
   );
